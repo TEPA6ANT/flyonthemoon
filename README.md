@@ -1,9 +1,9 @@
 # flyonthemoon-js-cleo-redux
 [CLEO Redux 1.4.3] Noclip cheat script for: 
 
--Grand Theft Auto III - The Definitive Edition 
+- Grand Theft Auto III - The Definitive Edition 
 
--Grand Theft Auto Vice City - The Definitive Edition
+- Grand Theft Auto Vice City - The Definitive Edition
 
 Я не знаю работает ли для оригинальных игр (хотя CLEO Redux с ними совместим) и GTA SA DE. Но я не проверял.
 
