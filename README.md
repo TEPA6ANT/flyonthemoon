@@ -1,5 +1,5 @@
 # flyonthemoon
-# [CLEO Redux 1.4.3] Noclip cheat script for: 
+[CLEO Redux 1.4.3] Noclip cheat script for: 
 
 - Grand Theft Auto III - The Definitive Edition 
 
