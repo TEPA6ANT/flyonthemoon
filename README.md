@@ -5,7 +5,7 @@
 
 - Grand Theft Auto Vice City - The Definitive Edition
 
-Я не знаю работает ли для оригинальных игр (хотя CLEO Redux с ними совместим) и GTA SA DE. Но я не проверял.
+- Grand Theft Auto San Andreas - The Definitive Edition
 
 Я создал этот скрипт для себя, а именно для быстрого выполнения побочек вроде миссий: полицейских, скорой помощи, такси, пожарного, поиска машин для автосалона, и.т.д.
 
